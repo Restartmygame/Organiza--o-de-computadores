@@ -1,0 +1,42 @@
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Método de acesso da memória
+
+Acesso direto: método em qeu os dados são organizados em um endereçoi único baseado na localização fisica
+
+acesso assciativo: utiliza
+
+  Desempenho
+
+.tempo de acesso: é o intervalo entre o inicio de uma operação até o momento que os dados são disponibilizados na memória
+
+.taxa de transferenica: velocidade em que os dados podem ser transferidos, medido em (b/s), (Mb/s) ou (GB/s)
+
+hierarquia da memória
+
+Dilemas
+
+.quanto investir?
+.com que velocidade?
+.com que custo?
+
+
+Para conseguir maior desempenho a memória precisa ser capaz de acompanhar a velocidade do processador
+
+Solução
+
+é comum usar uma hierarquia de memória que consiste em organizar os dispositivos de armazenamento em diferentes níveis de acordo com suas características
+
+.O nível mais alto é o mais próximo do processador
+.O nivel mais baixo é o mais distante do processador e tem maior capacidade, maior tempo de acesso, menor taxa de transferência e menor custo
+
+Memória cache:
+
+Mmemória cache é um auxiliador do processador, ela tem pouco espaço mas é muito potente, mas por conta disso é bem cara
+
+memória RAM
+
+Randomic Acess Memory -  é um tipo de memória volátil que armaena temporariamente os dados e as instruções que são usados pelo computador
